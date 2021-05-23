@@ -1,4 +1,6 @@
 #!D:\Dwimperl\perl\bin\perl.exe
+package Conn;
+
 use DBI;
 use strict;
 use warnings;
@@ -8,3 +10,7 @@ sub make_db_conn {
 
 	return $myConnection;
 }
+
+our $conn = make_db_conn(); 
+
+1;
