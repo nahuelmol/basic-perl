@@ -1,2 +1,2 @@
-Hi! This is an example.
+Hi! This is a text example.
 Why 1?
