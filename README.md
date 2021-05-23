@@ -1,11 +1,11 @@
 # basics.perl
 <div>
-  <img src="https://img.shields.io/github/commit-activity/m/nahuelmol/basic.perl"/>
-  <img src="https://img.shields.io/github/last-commit/nahuelmol/basic.perl"/>
-  <img src="https://img.shields.io/github/languages/top/nahuelmol/basic.perl"/>
-  <img src="https://img.shields.io/github/languages/code-size/nahuelmol/basic.perl"/>
+  <img src="https://img.shields.io/github/commit-activity/m/nahuelmol/basic-perl"/>
+  <img src="https://img.shields.io/github/last-commit/nahuelmol/basic-perl"/>
+  <img src="https://img.shields.io/github/languages/top/nahuelmol/basic-perl"/>
+  <img src="https://img.shields.io/github/languages/code-size/nahuelmol/basic-perl"/>
 </div>
-* making a direct connection with postgres server and executing query sentences
+<p>making a direct connection with postgres server and executing query sentences</p>
 ## purpose
 * Soon i hope to consume APIs and build a modulated more complete project
 * Compare the performance to others languages like python
