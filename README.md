@@ -10,3 +10,16 @@ set PERL5LIB=path/to/libraries/directory
 ```
 
 or modifyinh the variables directly, going to properties of the computer, later in advance, there clicking in environment variables and finally adding to the path variables the directory that contain the corresponding libs packages (.pm)
+
+at the end i get the following variable..
+```cmd
+D:\project\> echo %PERL5LIB%
+PERL5LIB=D:\project\
+```
+
+It's all what i have to do with that variable. From the executed file, i mean main.pl, i have to call the final folder, whose content is the .pm package file. And then call the package.
+
+```
+use lib 'db';
+use Queries;
+```
